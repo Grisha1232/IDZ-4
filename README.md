@@ -57,7 +57,7 @@ g++ -std=c++20 viewer.cpp -o view
 ./view <ip> <port>
 ```
 
-[Исходный код](https://github.com/Grisha1232/IDZ-4/tree/main/6-8)
+[Исходный код](https://github.com/Grisha1232/IDZ-4/tree/main/6-8)  
 [Демонстрация программы](https://github.com/Grisha1232/IDZ-4/blob/main/6-8/tests.md)
 
 
