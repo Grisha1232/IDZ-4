@@ -26,7 +26,7 @@ g++ -std=c++20 client.cpp -o client
 <id> - от 0 до 4;
 
 [Исходный код](https://github.com/Grisha1232/IDZ-4/tree/main/4-5)  
-[Демонстрация программы]()
+[Демонстрация программы](https://github.com/Grisha1232/IDZ-4/blob/main/4-5/tests.md)
 
 
 ## Отчет на 6-7
